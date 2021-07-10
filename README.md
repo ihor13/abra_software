@@ -1,6 +1,6 @@
 # abra_software
 
-tytorial https://www.youtube.com/watch?v=qh0AZRaogzU
+Tutorial https://www.youtube.com/watch?v=qh0AZRaogzU
 
 
 Used Technology:
